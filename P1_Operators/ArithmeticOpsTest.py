@@ -1,0 +1,11 @@
+x = 5
+y = 3
+print("x =",x)
+print("y =",y)
+print("x + y =",x + y) # Addition
+print("x - y =",x - y) # Subtraction
+print("x * y = ",x * y) # multiplication
+print("x / y =",x / y)  # division results in float
+print("x // y =",x // y) #Floor division
+print("x % y =",x % y) # Modulus
+print("x ** y =",x ** y) # Exponentiation
